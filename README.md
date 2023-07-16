@@ -3,6 +3,7 @@
 > There are three merging strategies in Github. Merge, Squash, Rebase. This project is intended to see how each strategy works.
 
 ![](/docs/images/merge.png)
+![](/docs/images/squash.png)
 
 ## Author
 
