@@ -2,8 +2,16 @@
 
 > There are three merging strategies in Github. Merge, Squash, Rebase. This project is intended to see how each strategy works.
 
+- Merge commits
+
 ![](/docs/images/merge.png)
+
+- Squash merge
+
 ![](/docs/images/squash.png)
+
+- Rebase merge
+
 ![](/docs/images/rebase.png)
 
 ## Author
@@ -12,11 +20,3 @@
 
 - Website: https://maketheworldwise.com
 - Github: [@maketheworldwise](https://github.com/maketheworldwise)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
