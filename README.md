@@ -22,7 +22,7 @@ This is my base git history.
 [merge]--[squash]--[rebase]--[readme]
 ```
 
-1. I've made feature1 branch and make three files. This is how it will be look like when using **merge**.
+1. I've made feature1 branch and three files in it. This is how it will be look like when using **merge**.
 
 ```shell
 main branch:
@@ -31,7 +31,7 @@ main branch:
 [merge]--[squash]--[rebase]--[readme]--[test1]--[commits]
 ```
 
-2. Then I've made feature2 branch and make three files. This is how it will be look like when using **squash**.
+2. Then I've made feature2 branch and three files in it. This is how it will be look like when using **squash**.
 
 ```shell
 main branch:
@@ -40,7 +40,7 @@ main branch:
 [commits]--[test2]--[a*b*c]
 ```
 
-3. Lastly I've made feature3 branch and make three files. This is how it will be look like when using **rembase**.
+3. Lastly I've made feature3 branch and three files in it. This is how it will be look like when using **rebase**.
 
 ```shell
 main branch:
@@ -48,6 +48,12 @@ main branch:
       /               \
 [a*b*c]--[test3]------[a]--[b]--[c]
 ```
+
+## 💁🏻 Results
+
+The result of these test will be like this.
+
+![](/docs/images/result.png)
 
 ## Author
 
