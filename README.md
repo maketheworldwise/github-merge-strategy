@@ -31,6 +31,15 @@ main branch:
 [merge]--[squash]--[rebase]--[readme]--[test1]--[commits]
 ```
 
+2. Then I've made feature2 branch and make three files. This is how it will be look like when using **squash**.
+
+```shell
+main branch:
+        [a]--[b]--[c]
+      /               \
+[commits]--[test2]--[a*b*c]
+```
+
 ## Author
 
 👤 **Kevin Ahn**
