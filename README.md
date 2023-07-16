@@ -40,6 +40,15 @@ main branch:
 [commits]--[test2]--[a*b*c]
 ```
 
+3. Lastly I've made feature3 branch and make three files. This is how it will be look like when using **rembase**.
+
+```shell
+main branch:
+        [a]--[b]--[c]
+      /               \
+[a*b*c]--[test3]------[a]--[b]--[c]
+```
+
 ## Author
 
 👤 **Kevin Ahn**
