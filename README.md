@@ -4,6 +4,7 @@
 
 ![](/docs/images/merge.png)
 ![](/docs/images/squash.png)
+![](/docs/images/rebase.png)
 
 ## Author
 
