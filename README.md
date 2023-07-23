@@ -59,5 +59,4 @@ The result of these test will be like this.
 
 👤 **Kevin Ahn**
 
-- Website: https://maketheworldwise.com
 - Github: [@maketheworldwise](https://github.com/maketheworldwise)
